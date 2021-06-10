@@ -656,6 +656,10 @@ footer .copyright {
   width: 45%;
 }
 
+.map figure {
+  padding-bottom: 45.5%;
+}
+
 .contact-section .content-wrapper h2 {
   width: 80%;
 }
@@ -768,6 +772,10 @@ footer h4 {
 .contact-section .content-wrapper h2 {
   width: 95%;
   font-size: 3em;
+}
+
+.map figure {
+  padding-bottom: 37.5%;
 }
 
 .contact-content h4 {
